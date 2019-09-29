@@ -1,6 +1,5 @@
 <h2>
 Predecir Consumos (Series de Tiempo) con Machine Learning (ARIMA) en R</h2>
-<div>
 <h3>
 Planteamiento del problema</h3>
 A partir de los registros de consumo de un canal de datos recolectados durante 60 días, se busca predecir el consumo de los próximos 30 días.<br />
@@ -9,10 +8,10 @@ Los registros se pueden descargar en el siguiente enlace (<a href="https://drive
 Teoría - Series de Tiempo</h3>
 <h4>
 Quiz Series de Tiempo</h4>
-<div>
-Este quiz pretende evaluar su nivel conocimiento sobre las Series de Tiempo antes de iniciar la unidad de teoría.</div>
-<div>
-<iframe frameborder="0" height="300" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSfSKdYeBvFrgsGHEQmfUBV533qmKL7nKFljPaPREbC8WaJbLA/viewform?embedded=true" width="100%">Cargando…</iframe></div>
+Este quiz pretende evaluar su nivel conocimiento sobre las Series de Tiempo antes de iniciar la unidad de teoría.<br />
+<iframe frameborder="0" height="300" marginheight="0" marginwidth="0" src="https://docs.google.com/forms/d/e/1FAIpQLSfSKdYeBvFrgsGHEQmfUBV533qmKL7nKFljPaPREbC8WaJbLA/viewform?embedded=true" width="100%">Cargando…</iframe>
+
+<br />
 <div>
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
@@ -55,7 +54,9 @@ Predecir Series de Tiempo con ARIMA</h3>
 <div>
 En el problema planteado se conocen los registros de una serie de tiempo y se busca predecir sus registros futuros, razón por la cual se utilizará un algoritmo de aprendizaje supervisado de Machine Learning denominado ARIMA (autoregressive integrated moving average (autorregresivo integrado de promedio móvil)).<br />
 <br /></div>
-<iframe frameborder="0" height="1000" marginheight="0" marginwidth="0" src="https://nbviewer.jupyter.org/github/alfarodaniel/R-ARIMA/blob/master/arima_canal.ipynb" width="100%"></iframe></div>
+<iframe frameborder="0" height="1000" marginheight="0" marginwidth="0" src="https://nbviewer.jupyter.org/github/alfarodaniel/R-ARIMA/blob/master/arima_canal.ipynb" width="100%"></iframe>
+
+<br />
 <div>
 <br />
 <h3>
