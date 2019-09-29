@@ -1,7 +1,6 @@
 <h2>
 Predecir Consumos (Series de Tiempo) con Machine Learning (ARIMA) en R</h2>
 <div>
-<div>
 <h3>
 Planteamiento del problema</h3>
 A partir de los registros de consumo de un canal de datos recolectados durante 60 días, se busca predecir el consumo de los próximos 30 días.<br />
@@ -54,4 +53,27 @@ Teoría - Algoritmos de Machine Learning</h3>
 <h3>
 Predecir Series de Tiempo con ARIMA</h3>
 <div>
-En el problema planteado se conocen los registros de una serie de tiempo y se busca predecir sus registros futuros, razón por la cual se utilizará un algoritmo de aprendizaje supervisado de Machine Learning denominado ARIMA (autoregressive integrated moving average (autorregresivo integrado de promedio móvil)).</div>
+En el problema planteado se conocen los registros de una serie de tiempo y se busca predecir sus registros futuros, razón por la cual se utilizará un algoritmo de aprendizaje supervisado de Machine Learning denominado ARIMA (autoregressive integrated moving average (autorregresivo integrado de promedio móvil)).<br />
+<br /></div>
+<iframe frameborder="0" height="1000" marginheight="0" marginwidth="0" src="https://nbviewer.jupyter.org/github/alfarodaniel/R-ARIMA/blob/master/arima_canal.ipynb" width="100%"></iframe></div>
+<div>
+<br />
+<h3>
+Referencias y Fuentes</h3>
+</div>
+<div>
+<ol></ol>
+<ol>
+<li>A Complete Tutorial on Time Series Modeling in R,&nbsp;<a href="https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/" target="_blank">www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/</a></li>
+<li>Algoritmos de Machine Learning y cómo seleccionar el mejor, <a href="https://www.lis-solutions.es/blog/algoritmos-de-machine-learning-y-como-seleccionar-el-mejor1-3/" target="_blank">https://www.lis-solutions.es/blog/algoritmos-de-machine-learning-y-como-seleccionar-el-mejor1-3/</a></li>
+<li>Cómo predecir consumos con algoritmos de Machine Learning,&nbsp;<a href="https://www.lis-solutions.es/blog/como-predecir-consumos-con-algoritmos-de-machine-learning/" target="_blank">www.lis-solutions.es/blog/como-predecir-consumos-con-algoritmos-de-machine-learning/</a></li>
+<li>Introducción a Series de Tiempo, John Villavicencio, <a href="https://drive.google.com/file/d/1MMt9eN82QRzN1X3boRvMhWu0MRdqkDev/view?usp=sharing" target="_blank">enlace</a></li>
+<li>Series de Tiempo en R,&nbsp;<a href="https://www.youtube.com/watch?v=BOCm-HgK7WQ" target="_blank">www.youtube.com/watch?v=BOCm-HgK7WQ</a></li>
+<li>Series Temporales,&nbsp;<a href="https://www.youtube.com/watch?v=O0DLO0oWd5c" target="_blank">www.youtube.com/watch?v=O0DLO0oWd5c</a></li>
+<li>Step by step graphic guide to Forecasting through ARIMA modeling in R manufacturing case study example,&nbsp;<a href="http://ucanalytics.com/blogs/step-by-step-graphic-guide-to-forecasting-through-arima-modeling-in-r-manufacturing-case-study-example/">ucanalytics.com/blogs/step-by-step-graphic-guide-to-forecasting-through-arima-modeling-in-r-manufacturing-case-study-example/</a></li>
+<li>Using R for Time Series Analysis,&nbsp;<a href="https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html" target="_blank">a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html</a></li>
+</ol>
+<ol></ol>
+<ol></ol>
+<ol></ol>
+</div>
