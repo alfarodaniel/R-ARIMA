@@ -48,8 +48,7 @@ Teoría - Algoritmos de Machine Learning</h3>
 Predecir Series de Tiempo con ARIMA</h3>
 En el problema planteado se conocen los registros de una serie de tiempo y se busca predecir sus registros futuros, razón por la cual se utilizará un algoritmo de aprendizaje supervisado de Machine Learning denominado ARIMA (autoregressive integrated moving average (autorregresivo integrado de promedio móvil)).
 <br />
-<iframe frameborder="0" height="1000" marginheight="0" marginwidth="0" src="https://nbviewer.jupyter.org/github/alfarodaniel/R-ARIMA/blob/master/arima_canal.ipynb" width="100%"></iframe>
-
+<script src="https://gist.github.com/alfarodaniel/529ce80faa7d61bdeff04ac2f0a8edb3.js"></script>
 <br />
 <h3>
 Referencias y Fuentes</h3>
